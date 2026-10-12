@@ -1,0 +1,1 @@
+/home/lua/.claude/bin/browsers.sh
